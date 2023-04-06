@@ -135,7 +135,7 @@ nav .sideMenuButton {
     color: #f46524;
 }
 
-#Home {
+.line img {
 background-image: url('images/cover.png');
 background-repeat: no-repeat; 
 background-size: cover;
