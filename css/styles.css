@@ -134,9 +134,18 @@ nav .sideMenuButton {
     margin-bottom: 10px;
     color: green;
 }
-  
+
+#Home {
+background-image: url('images/cover.png');
+background-repeat: no-repeat; 
+background-size: cover;
+background-position: center; 
+height: 500px;
+}  
+
 .side1 button {
-    width: 200px;
+    
+width: 200px;
     padding: 12px 20px;
     border-radius: 20px;
     border-style: none;
