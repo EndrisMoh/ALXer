@@ -121,7 +121,7 @@ nav .sideMenuButton {
 .line {
     display: flex;
     justify-content: space-between;
-    align-items: ienter;
+    align-items: center;
     margin: 2% 5%;
 }
   
