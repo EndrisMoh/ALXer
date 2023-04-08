@@ -209,7 +209,7 @@ section .topic a {
 .about .boxes .box {
     margin: 10px 20px;
     max-width: calc(150% / 3 - 50px);
-    text-align: justify;
+    text-align: center;
     border-radius: 12px;
     padding: 30px 10px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.12);
