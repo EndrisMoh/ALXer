@@ -123,8 +123,9 @@ nav .sideMenuButton {
     justify-content: space-between;
     align-items: center;
     margin: 2% 5%;
+    background-image: url('/images/cover.png');
 }
-  
+
 .line .side1 {
     padding-right: 50px;
 }
